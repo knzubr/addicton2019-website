@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+    background-color: #fafafa;
+    color: #333333;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    color: #273445;
+    font-family: 'Raleway', sans-serif;
+}
+
+section {
+    border-top: dashed 2px #667885;
+}
